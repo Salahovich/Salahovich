@@ -1,7 +1,7 @@
 # Hi, I'm Muhammad Salah 👋
 
-**Backend Software Engineer** · Java · Spring Boot · Microservices · Distributed Systems
-📍 Cairo, Egypt · open to remote and relocation (Gulf / Europe)
+**Backend Software Engineer** · Java · Spring Boot · Microservices · Distributed Systems  
+📍 Cairo, Egypt · open to remote and relocation (Gulf / Europe)  
 📫 m.salahovich@gmail.com · [LinkedIn](https://www.linkedin.com/in/salahovich) · [LeetCode](https://leetcode.com/u/salahovich)
 
 ---
